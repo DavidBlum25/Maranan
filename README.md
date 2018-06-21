@@ -3,4 +3,4 @@ A website that brings together Rabbis, Torah teachers and students of all genera
 
 ## Credits
 
-David Blum - [blumd25@gmail.com](blumd25@gmail.com)
+David Blum - [blumd25@gmail.com](mailto:blumd25@gmail.com)
